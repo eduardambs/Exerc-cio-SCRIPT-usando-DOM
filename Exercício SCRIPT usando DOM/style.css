@@ -1,0 +1,13 @@
+#muda_cor{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.roxo{
+    background-color: blueviolet;
+}
+
+.lilás{
+    background-color: rgb(215, 184, 244);
+}
